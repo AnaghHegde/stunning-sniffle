@@ -1,0 +1,25 @@
+{
+  "name": "Untitled application 1",
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FBF4ED",
+  "icon": "money",
+  "slug": "untitled-application-1",
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1637589505,
+    "nanos": 551000000
+  },
+  "deleted": false,
+  "policies": [],
+  "userPermissions": [
+    "manage:applications",
+    "canComment:applications",
+    "export:applications",
+    "read:applications",
+    "publish:applications",
+    "makePublic:applications"
+  ]
+}
